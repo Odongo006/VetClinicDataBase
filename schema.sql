@@ -1,3 +1,7 @@
+/* Create database vet_clinic; */
+CREATE DATABASE vet_clinic;
+
+/* Create table animals */
 CREATE TABLE animals (
     id INTEGER,
     name VARCHAR(255),
@@ -6,3 +10,7 @@ CREATE TABLE animals (
     neutered BOOLEAN,
     weight_kg DECIMAL(10, 2)
 );
+
+/* Project 2 - Add species column to animals table */
+ALTER TABLE animals ADD COLUMN species VARCHAR;
+

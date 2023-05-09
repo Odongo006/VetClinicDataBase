@@ -59,7 +59,7 @@ Overall, this project has provided us with valuable experience in database desig
 - **[Query multiple table]**
 - **[Create join tables]**
 - **[Performance audit]**
-- **[Database schema diagram]**
+- **[Add Database schema diagram]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -63,8 +63,6 @@ Overall, this project has provided us with valuable experience in database desig
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 This repository includes files with plain SQL that can be used to recreate a database:

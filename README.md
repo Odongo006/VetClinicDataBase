@@ -52,7 +52,7 @@ Overall, this project has provided us with valuable experience in database desig
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create a database]**
+- **[Create database]**
 - **[Create a table]**
 - **[Insert data into table]**
 - **[Update table]**

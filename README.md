@@ -101,6 +101,12 @@ Select correct PostgreSQL package and install from https://www.postgresql.org/do
 
 - GitHub: [@Henry Omondi](https://github.com/Odongo006)
 
+👤 **Koshao Godfrey Kazungu**
+
+- GitHub: [@gKoshao-sys](https://github.com/Koshao-sys/)
+- Twitter: [@KoshaoKG](https://twitter.com/KoshaoKG)
+- LinkedIn: [koshaokazungu](https://www.linkedin.com/in/koshaokazungu/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

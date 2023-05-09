@@ -52,8 +52,6 @@ Overall, this project has provided us with valuable experience in database desig
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Create a database]**
 - **[Create a table]**
 - **[Insert data into table]**

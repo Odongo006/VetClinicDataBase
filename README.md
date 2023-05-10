@@ -30,7 +30,12 @@
 
 > Use a relational database to create the data structure for a vet clinic.
 
-**[Vet clinic database: add database schema diagram]** is...
+**[Vet clinic database: add database schema diagram]** 
+If you're running a veterinary clinic, you'll be pleased to know that we've just completed a project to create a relational database from scratch that can help you store and manage information about your animals, their owners, your clinic employees, and visits. With this comprehensive data structure, you'll be able to efficiently track and monitor all aspects of your clinic's operations.
+
+In addition to the data structure, we've also developed a set of SQL queries that can help you answer specific questions about your data, giving you valuable insights into your clinic's performance and helping you make informed decisions. Even if you're not familiar with database design or SQL programming, our user-friendly interface makes it easy to retrieve the information you need.
+
+Overall, this project has provided us with valuable experience in database design, data modeling, and SQL programming, and we're excited to offer these skills to our clients. Whether you're running a veterinary clinic or any other type of business that relies on data management, our services can help you achieve success and stay ahead of the competition.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,22 +52,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Create a database]**
+- **[Create database]**
 - **[Create a table]**
 - **[Insert data into table]**
 - **[Update table]**
 - **[Query multiple table]**
 - **[Create join tables]**
 - **[Performance audit]**
-- **[Database schema diagram]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Source Link](https://github.com/Odongo006/VetClinicDataBase)
+- **[Add Database schema diagram]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,9 +93,15 @@ Select correct PostgreSQL package and install from https://www.postgresql.org/do
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **lenkon**
+👤 **Henry**
 
 - GitHub: [@Henry Omondi](https://github.com/Odongo006)
+
+👤 **Koshao Godfrey Kazungu**
+
+- GitHub: [@gKoshao-sys](https://github.com/Koshao-sys/)
+- Twitter: [@KoshaoKG](https://twitter.com/KoshaoKG)
+- LinkedIn: [koshaokazungu](https://www.linkedin.com/in/koshaokazungu/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,5 +138,3 @@ I would like to thank Microverse for sharing the tools and requirements.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
